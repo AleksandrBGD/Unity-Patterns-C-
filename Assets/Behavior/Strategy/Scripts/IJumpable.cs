@@ -1,0 +1,5 @@
+
+interface IJumpable
+{
+    void Do();
+}
